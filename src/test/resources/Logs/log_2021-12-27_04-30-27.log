@@ -1,0 +1,6 @@
+27/Dec/2021 16:30:34,288 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+27/Dec/2021 16:30:34,475 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+27/Dec/2021 16:30:37,368 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+27/Dec/2021 16:30:37,633 INFO  [HomePage.java:188] : Clicking on simple type of trade from homepage
+27/Dec/2021 16:30:38,497 INFO  [TradePage.java:219] : Clicking on random CTI among the list of CTIs
+27/Dec/2021 16:30:38,652 INFO  [TradePage.java:922] : Clicking on random modes among the list of switch modes

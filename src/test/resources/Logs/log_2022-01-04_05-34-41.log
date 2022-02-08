@@ -1,0 +1,3 @@
+04/Jan/2022 17:35:05,955 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 17:35:06,166 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+04/Jan/2022 17:35:10,434 INFO  [AssetsPage.java:145] : Clicking on random CTI among the list of CTIs

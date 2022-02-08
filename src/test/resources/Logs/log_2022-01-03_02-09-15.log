@@ -1,0 +1,18 @@
+03/Jan/2022 14:09:28,720 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 14:09:28,988 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 14:09:29,188 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 14:09:29,558 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 14:09:34,023 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 14:09:34,377 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 14:09:34,383 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 14:09:34,818 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 14:09:38,435 INFO  [TradePage.java:213] : Entering the search field with valid data
+03/Jan/2022 14:09:38,912 INFO  [TradePage.java:213] : Entering the search field with valid data
+03/Jan/2022 14:09:44,270 INFO  [TradePage.java:341] : Verifying whether the market price has been sorted in ascending order or not
+03/Jan/2022 14:09:44,376 INFO  [TradePage.java:341] : Verifying whether the market price has been sorted in ascending order or not
+03/Jan/2022 14:09:44,947 INFO  [TradePage.java:353] : Verifying whether the market price has been sorted in descending order or not
+03/Jan/2022 14:09:45,000 INFO  [TradePage.java:353] : Verifying whether the market price has been sorted in descending order or not
+03/Jan/2022 14:09:45,304 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 14:09:45,407 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 14:09:48,740 INFO  [TradePage.java:384] : Verifying the CTI details upon clicking on a random CTI
+03/Jan/2022 14:09:49,251 INFO  [TradePage.java:384] : Verifying the CTI details upon clicking on a random CTI

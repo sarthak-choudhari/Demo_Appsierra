@@ -1,0 +1,12 @@
+27/Dec/2021 13:23:48,121 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+27/Dec/2021 13:23:48,404 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+27/Dec/2021 13:23:53,365 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+27/Dec/2021 13:23:53,601 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+27/Dec/2021 13:23:56,544 INFO  [TradePage.java:447] : Verifying the buying price of buy limit order type
+27/Dec/2021 13:23:57,938 INFO  [TradePage.java:479] : Verifying the color of the Buy orders
+27/Dec/2021 13:23:59,383 INFO  [TradePage.java:571] : Adjusting the Order book block
+27/Dec/2021 13:23:59,686 INFO  [TradePage.java:290] : Selecting the Sell type of order
+27/Dec/2021 13:23:59,754 INFO  [TradePage.java:414] : Verifying the selling price of sell limit order type
+27/Dec/2021 13:24:00,067 INFO  [TradePage.java:310] : Clicking on Sell button
+27/Dec/2021 13:24:04,888 INFO  [TradePage.java:500] : Verifying the color of the Buy/Sell orders
+27/Dec/2021 13:24:05,541 INFO  [TradePage.java:524] : Adjusting the Open Orders block

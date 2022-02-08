@@ -1,3 +1,0 @@
-2022-02-08T11:24:18.348+0530 INFO *******************TestCases.SC_01_LoginTest.TC_01_servicePortal started*******************
-2022-02-08T11:24:18.401+0530 INFO Waiting for element to be visible: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/store/customer/account/']'
-2022-02-08T11:24:18.426+0530 INFO Waiting for element to be visible: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/store/customer/account/']'

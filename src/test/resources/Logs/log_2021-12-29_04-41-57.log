@@ -1,0 +1,49 @@
+29/Dec/2021 16:42:03,738 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 16:42:04,058 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 16:42:06,783 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 16:42:06,914 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+29/Dec/2021 16:42:08,717 INFO  [TradePage.java:213] : Entering the search field with valid data
+29/Dec/2021 16:42:11,926 INFO  [TradePage.java:341] : Verifying whether the market price has been sorted in ascending order or not
+29/Dec/2021 16:42:12,472 INFO  [TradePage.java:353] : Verifying whether the market price has been sorted in descending order or not
+29/Dec/2021 16:42:12,655 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 16:42:15,530 INFO  [TradePage.java:384] : Verifying the CTI details upon clicking on a random CTI
+29/Dec/2021 16:42:23,935 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 16:42:24,117 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 16:42:27,658 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 16:42:27,810 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+29/Dec/2021 16:42:28,938 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 16:42:31,177 INFO  [TradePage.java:582] : Adjusting the Order book block
+29/Dec/2021 16:42:32,645 INFO  [TradePage.java:401] : Verifying the selling properties present on the webpage or not
+29/Dec/2021 16:42:32,827 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 16:42:34,694 INFO  [TradePage.java:582] : Adjusting the Order book block
+29/Dec/2021 16:42:35,902 INFO  [TradePage.java:436] : Verifying the buying properties present on the webpage or not
+29/Dec/2021 16:42:36,491 INFO  [TradePage.java:461] : Verifying the last market price updated and block adjustment
+29/Dec/2021 16:42:43,683 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 16:42:44,144 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 16:42:47,019 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 16:42:47,398 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+29/Dec/2021 16:42:51,185 INFO  [TradePage.java:450] : Verifying the buying price of buy limit order type
+29/Dec/2021 16:42:51,675 INFO  [TradePage.java:482] : Verifying the color of the Buy orders
+29/Dec/2021 16:42:53,333 INFO  [TradePage.java:582] : Adjusting the Order book block
+29/Dec/2021 16:42:53,581 INFO  [TradePage.java:293] : Selecting the Sell type of order
+29/Dec/2021 16:42:53,652 INFO  [TradePage.java:417] : Verifying the selling price of sell limit order type
+29/Dec/2021 16:42:53,904 INFO  [TradePage.java:313] : Clicking on Sell button
+29/Dec/2021 16:42:57,393 INFO  [TradePage.java:503] : Verifying the color of the Buy/Sell orders
+29/Dec/2021 16:42:57,939 INFO  [TradePage.java:527] : Adjusting the Open Orders block
+29/Dec/2021 16:42:58,066 INFO  [TradePage.java:538] : Clicked on cancel cross button
+29/Dec/2021 16:42:58,787 INFO  [TradePage.java:541] : Order is being cancelled display
+29/Dec/2021 16:42:58,894 INFO  [TradePage.java:545] : Clicked on cancel all button
+29/Dec/2021 16:43:00,134 INFO  [TradePage.java:548] : All orders are being canceled display
+29/Dec/2021 16:43:12,172 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 16:43:12,462 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 16:43:15,572 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 16:43:15,708 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+29/Dec/2021 16:43:16,935 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 16:43:18,633 INFO  [TradePage.java:566] : Selecting advanced type of trading
+29/Dec/2021 16:43:19,462 INFO  [TradePage.java:777] : Verifying the funtionalities present in recent trade table
+29/Dec/2021 16:43:26,680 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 16:43:27,150 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 16:43:30,537 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 16:43:30,654 INFO  [HomePage.java:188] : Clicking on simple type of trade from homepage
+29/Dec/2021 16:43:31,860 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 16:43:32,170 INFO  [TradePage.java:935] : Clicking on random modes among the list of switch modes

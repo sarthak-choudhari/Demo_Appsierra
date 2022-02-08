@@ -1,0 +1,9 @@
+05/Jan/2022 22:40:08,167 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+05/Jan/2022 22:40:08,341 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+05/Jan/2022 22:40:08,728 INFO  [LoginPage.java:111] : Click of forgot password
+05/Jan/2022 22:40:09,291 INFO  [LoginPage.java:121] : Enter email
+05/Jan/2022 22:40:10,625 INFO  [LoginPage.java:128] : Forgot Passwrod Email Sent
+05/Jan/2022 22:40:20,878 INFO  [LoginPage.java:147] : Fetching the link for mail verification
+05/Jan/2022 22:40:23,115 INFO  [LoginPage.java:170] : Enter new password
+05/Jan/2022 22:40:23,324 INFO  [LoginPage.java:174] : Re enter password again
+05/Jan/2022 22:40:23,438 INFO  [LoginPage.java:178] : Click on chnage button

@@ -1,0 +1,13 @@
+29/Dec/2021 12:40:56,913 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 12:40:57,304 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 12:41:01,507 INFO  [AssetsPage.java:103] : Fetching the locked amount of the buy order
+29/Dec/2021 12:41:01,782 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+29/Dec/2021 12:41:02,219 INFO  [TradePage.java:563] : Selecting advanced type of trading
+29/Dec/2021 12:41:03,523 INFO  [TradePage.java:219] : Clicking on random CTI among the list of CTIs
+29/Dec/2021 12:41:06,943 INFO  [TradePage.java:447] : Verifying the buying price of buy limit order type
+29/Dec/2021 12:41:07,354 INFO  [TradePage.java:615] : Inserting random quantity of units to buy
+29/Dec/2021 12:41:07,793 INFO  [TradePage.java:626] : Verifying the amount calculated for respective price and quantity
+29/Dec/2021 12:41:08,011 INFO  [TradePage.java:298] : Clicking on Buy button
+29/Dec/2021 12:41:38,190 INFO  [TradePage.java:678] : Verifying the quantity selected by user and quantity displayed after order creation
+29/Dec/2021 12:41:38,660 INFO  [HomePage.java:167] : Clicking on Orders of registration page
+29/Dec/2021 12:41:39,023 INFO  [OrdersPage.java:107] : Calculating total locked amount for the opened orders

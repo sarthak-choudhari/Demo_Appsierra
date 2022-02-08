@@ -1,0 +1,9 @@
+23/Dec/2021 13:26:25,924 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:26:26,411 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:26:32,611 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+23/Dec/2021 13:26:32,999 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+23/Dec/2021 13:26:35,883 INFO  [TradePage.java:201] : Entering the search field with valid data
+23/Dec/2021 13:26:51,166 INFO  [TradePage.java:329] : Verifying whether the market price has been sorted in ascending order or not
+23/Dec/2021 13:26:53,402 INFO  [TradePage.java:341] : Verifying whether the market price has been sorted in descending order or not
+23/Dec/2021 13:26:53,868 INFO  [TradePage.java:210] : Clicking on random CTI among the list of CTIs
+23/Dec/2021 13:26:57,536 INFO  [TradePage.java:372] : Verifying the CTI details upon clicking on a random CTI

@@ -1,0 +1,12 @@
+05/Jan/2022 17:18:03,353 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+05/Jan/2022 17:18:03,651 INFO  [HomePage.java:90] : Clicking on sign-up of registration page
+05/Jan/2022 17:18:04,366 INFO  [SignUpPage.java:40] : Entering the value into Email text field
+05/Jan/2022 17:18:04,734 INFO  [SignUpPage.java:46] : Entering the value into Password text field
+05/Jan/2022 17:18:05,094 INFO  [SignUpPage.java:52] : Entering the value into Confirm Password text field
+05/Jan/2022 17:18:05,241 INFO  [SignUpPage.java:58] : Clicking on Terms And Conditions Check-Box of Sign-Up page
+05/Jan/2022 17:18:05,393 INFO  [SignUpPage.java:70] : Clicking on sign-in of registration page
+05/Jan/2022 17:18:06,947 INFO  [SignUpPage.java:74] : check for an email in your inbox with further instruction.
+05/Jan/2022 17:18:13,728 INFO  [GhostInspectorPage.java:47] : Fetching the link for mail verification
+05/Jan/2022 17:18:17,727 INFO  [SignUpPage.java:83] : Verifying wether the email has been successfully verified or not
+05/Jan/2022 17:18:18,064 INFO  [SignUpPage.java:40] : Entering the value into Email text field
+05/Jan/2022 17:18:18,361 INFO  [SignUpPage.java:46] : Entering the value into Password text field

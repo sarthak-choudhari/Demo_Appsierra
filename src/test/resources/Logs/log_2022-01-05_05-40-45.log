@@ -1,0 +1,9 @@
+05/Jan/2022 17:40:55,218 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+05/Jan/2022 17:40:55,510 INFO  [HomePage.java:90] : Clicking on sign-up of registration page
+05/Jan/2022 17:40:56,200 INFO  [SignUpPage.java:40] : Entering the value into Email text field
+05/Jan/2022 17:40:56,575 INFO  [SignUpPage.java:46] : Entering the value into Password text field
+05/Jan/2022 17:40:57,015 INFO  [SignUpPage.java:52] : Entering the value into Confirm Password text field
+05/Jan/2022 17:40:57,165 INFO  [SignUpPage.java:58] : Clicking on Terms And Conditions Check-Box of Sign-Up page
+05/Jan/2022 17:40:57,328 INFO  [SignUpPage.java:70] : Clicking on sign-in of registration page
+05/Jan/2022 17:40:58,880 INFO  [SignUpPage.java:74] : check for an email in your inbox with further instruction.
+05/Jan/2022 17:40:59,017 INFO  [VerificationPage.java:38] : Clicking on Resend Confirmation mail for verification

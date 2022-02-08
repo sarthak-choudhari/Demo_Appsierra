@@ -1,0 +1,3 @@
+29/Dec/2021 13:49:06,908 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+29/Dec/2021 13:49:07,266 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+29/Dec/2021 13:49:12,588 INFO  [AssetsPage.java:106] : Fetching the locked amount of the buy order

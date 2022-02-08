@@ -1,0 +1,4 @@
+04/Jan/2022 18:19:35,265 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 18:19:35,579 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+04/Jan/2022 18:19:36,579 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 18:19:39,127 INFO  [ProfilePage.java:115] : Verifying the referral link in profile section

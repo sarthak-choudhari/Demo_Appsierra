@@ -1,0 +1,7 @@
+03/Jan/2022 10:37:17,047 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:37:17,331 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:37:20,809 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:37:20,957 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 10:37:24,004 INFO  [TradePage.java:450] : Verifying the buying price of buy limit order type
+03/Jan/2022 10:37:24,333 INFO  [TradePage.java:482] : Verifying the color of the Buy orders
+03/Jan/2022 10:37:25,695 INFO  [TradePage.java:582] : Adjusting the Order book block

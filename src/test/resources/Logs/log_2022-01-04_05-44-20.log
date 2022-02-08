@@ -1,0 +1,4 @@
+04/Jan/2022 17:44:37,297 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 17:44:37,591 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+04/Jan/2022 17:44:38,527 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 17:44:42,225 INFO  [ProfilePage.java:87] : Verifying wether the profile has been completely verified or not

@@ -1,0 +1,4 @@
+23/Dec/2021 13:02:06,573 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:02:06,943 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:02:08,009 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+23/Dec/2021 13:02:08,324 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage

@@ -1,0 +1,5 @@
+04/Jan/2022 12:54:43,139 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 12:54:43,444 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+04/Jan/2022 12:54:44,226 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+04/Jan/2022 12:54:48,018 INFO  [ProfilePage.java:154] : Verifying the dates in descending order
+04/Jan/2022 12:54:55,262 INFO  [ProfilePage.java:130] : Verifying different accocunt activities in profile section

@@ -1,0 +1,34 @@
+03/Jan/2022 10:35:03,178 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:35:03,478 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:35:07,873 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:35:08,259 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 10:35:09,102 INFO  [TradePage.java:213] : Entering the search field with valid data
+03/Jan/2022 10:35:20,667 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:35:21,011 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:35:26,279 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:35:26,404 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 10:35:27,158 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 10:35:29,140 INFO  [TradePage.java:582] : Adjusting the Order book block
+03/Jan/2022 10:35:31,190 INFO  [TradePage.java:401] : Verifying the selling properties present on the webpage or not
+03/Jan/2022 10:35:31,373 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 10:35:33,424 INFO  [TradePage.java:582] : Adjusting the Order book block
+03/Jan/2022 10:35:36,338 INFO  [TradePage.java:436] : Verifying the buying properties present on the webpage or not
+03/Jan/2022 10:35:36,986 INFO  [TradePage.java:461] : Verifying the last market price updated and block adjustment
+03/Jan/2022 10:35:49,171 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:35:49,362 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:35:52,838 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:35:52,984 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 10:35:55,839 INFO  [TradePage.java:450] : Verifying the buying price of buy limit order type
+03/Jan/2022 10:36:05,292 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:36:05,810 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:36:09,418 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:36:09,575 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+03/Jan/2022 10:36:10,538 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 10:36:12,538 INFO  [TradePage.java:566] : Selecting advanced type of trading
+03/Jan/2022 10:36:13,222 INFO  [TradePage.java:777] : Verifying the funtionalities present in recent trade table
+03/Jan/2022 10:36:20,700 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+03/Jan/2022 10:36:20,929 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+03/Jan/2022 10:36:24,944 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+03/Jan/2022 10:36:25,057 INFO  [HomePage.java:188] : Clicking on simple type of trade from homepage
+03/Jan/2022 10:36:25,966 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+03/Jan/2022 10:36:26,297 INFO  [TradePage.java:935] : Clicking on random modes among the list of switch modes

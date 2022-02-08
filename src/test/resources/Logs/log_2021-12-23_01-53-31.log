@@ -1,0 +1,17 @@
+23/Dec/2021 13:53:49,683 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:53:50,134 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:53:51,510 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:53:54,222 INFO  [ProfilePage.java:87] : Verifying wether the profile has been completely verified or not
+23/Dec/2021 13:54:11,581 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:54:12,043 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:54:13,330 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:54:15,945 INFO  [ProfilePage.java:98] : Verifying the change password page in profile section
+23/Dec/2021 13:54:32,507 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:54:33,216 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:54:34,624 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:54:37,787 INFO  [ProfilePage.java:114] : Verifying the referral link in profile section
+23/Dec/2021 13:54:53,060 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:54:53,713 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:54:55,010 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:55:02,270 INFO  [ProfilePage.java:154] : Verifying the dates in descending order
+23/Dec/2021 13:55:17,777 INFO  [ProfilePage.java:130] : Verifying different accocunt activities in profile section

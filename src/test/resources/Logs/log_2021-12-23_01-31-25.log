@@ -1,0 +1,22 @@
+23/Dec/2021 13:31:45,228 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:31:46,119 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:31:51,257 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+23/Dec/2021 13:31:51,771 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+23/Dec/2021 13:31:54,550 INFO  [TradePage.java:201] : Entering the search field with valid data
+23/Dec/2021 13:32:05,351 INFO  [TradePage.java:329] : Verifying whether the market price has been sorted in ascending order or not
+23/Dec/2021 13:32:06,367 INFO  [TradePage.java:341] : Verifying whether the market price has been sorted in descending order or not
+23/Dec/2021 13:32:06,754 INFO  [TradePage.java:210] : Clicking on random CTI among the list of CTIs
+23/Dec/2021 13:32:10,321 INFO  [TradePage.java:372] : Verifying the CTI details upon clicking on a random CTI
+23/Dec/2021 13:32:26,617 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:32:27,183 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:32:31,745 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+23/Dec/2021 13:32:32,078 INFO  [HomePage.java:181] : Clicking on advanced type of trade from homepage
+23/Dec/2021 13:32:33,471 INFO  [TradePage.java:210] : Clicking on random CTI among the list of CTIs
+23/Dec/2021 13:32:37,156 INFO  [TradePage.java:481] : Selecting advanced type of trading
+23/Dec/2021 13:32:40,246 INFO  [TradePage.java:682] : Verifying the funtionalities present in recent trade table
+23/Dec/2021 13:32:56,709 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+23/Dec/2021 13:32:57,221 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+23/Dec/2021 13:33:01,623 INFO  [HomePage.java:174] : Clicking on Trade from homepage
+23/Dec/2021 13:33:01,967 INFO  [HomePage.java:188] : Clicking on simple type of trade from homepage
+23/Dec/2021 13:33:03,494 INFO  [TradePage.java:210] : Clicking on random CTI among the list of CTIs
+23/Dec/2021 13:33:04,001 INFO  [TradePage.java:840] : Clicking on random modes among the list of switch modes
