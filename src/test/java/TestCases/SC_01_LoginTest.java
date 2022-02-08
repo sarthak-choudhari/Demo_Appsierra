@@ -25,11 +25,12 @@ public class SC_01_LoginTest extends TestBase {
 
 	@Test
 	public void TC_01_servicePortal() {
+		System.out.println("END");
 
-			LoginPage loginpage = new LoginPage(driver);
-			loginpage.userLoginProcedure(InitializePropertyFile.property.getProperty("username"),
-					InitializePropertyFile.property.getProperty("password"));
-			HomePage homepage = new HomePage(driver);
-			homepage.verifyServicePortal();
+//			LoginPage loginpage = new LoginPage(driver);
+//			loginpage.userLoginProcedure(InitializePropertyFile.property.getProperty("username"),
+//					InitializePropertyFile.property.getProperty("password"));
+//			HomePage homepage = new HomePage(driver);
+//			homepage.verifyServicePortal();
 	}
 }
