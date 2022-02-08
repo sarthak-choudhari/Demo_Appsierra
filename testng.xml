@@ -10,9 +10,9 @@
 		<parameter name="URL" value="Staging"></parameter>
 		<classes>
 			<class name="TestCases.SC_01_LoginTest" />
-			<class name="TestCases.SC_02_DashboardTest" />
+			<!--<class name="TestCases.SC_02_DashboardTest" />
 			<class name="TestCases.SC_03_MyTicketsTest" />
-			<!--<class name="TestCases.SC_04_TicketDetailTest" /> -->
+			<class name="TestCases.SC_04_TicketDetailTest" /> 
 			<class name="TestCases.SC_05_CreateTicketTest" />
 			<class name="TestCases.SC_06_MyAssetsTest" />
 			<class name="TestCases.SC_07_CreateAssetTest" />
@@ -24,7 +24,7 @@
 			<class name="TestCases.SC_13_AdminPanelTest" />
 			<class
 				name="TestCases.SC_14_Sprint12_ServicePortalTrueViewTest" />
-			<class name="TestCases.SC_15_EcommerceTest" />
+			<class name="TestCases.SC_15_EcommerceTest" />-->
 		</classes>
 	</test>
 </suite>
