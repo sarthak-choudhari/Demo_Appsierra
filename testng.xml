@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Barcodes_TestNG session">
+
+	<listeners>
+		<listener class-name="listener.ExtentReporterNG" />
+		<listener class-name="listener.ListenerTest" />
+	</listeners>
+
+	<test name="Testing">
+		<parameter name="URL" value="Staging"></parameter>
+		<classes>
+			<class name="TestCases.SC_01_LoginTest" />
+			<class name="TestCases.SC_02_DashboardTest" />
+			<class name="TestCases.SC_03_MyTicketsTest" />
+			<!--<class name="TestCases.SC_04_TicketDetailTest" /> -->
+			<class name="TestCases.SC_05_CreateTicketTest" />
+			<class name="TestCases.SC_06_MyAssetsTest" />
+			<class name="TestCases.SC_07_CreateAssetTest" />
+			<class name="TestCases.SC_08_AssetDetailScreenTest" />
+			<class name="TestCases.SC_09_MyContractsTest" />
+			<class name="TestCases.SC_10_AddContractTest" />
+			<class name="TestCases.SC_11_ExportToCSVTest" />
+			<class name="TestCases.SC_12_ProductAndModelVerficationTest" />
+			<class name="TestCases.SC_13_AdminPanelTest" />
+			<class
+				name="TestCases.SC_14_Sprint12_ServicePortalTrueViewTest" />
+			<class name="TestCases.SC_15_EcommerceTest" />
+		</classes>
+	</test>
+</suite>
